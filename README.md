@@ -29,10 +29,10 @@ the project is based on the RISC V talent development program.
   ```c
   #include<stdio.h>
   int main(){
-    int sum = 0, n = 86, i;
+    int sum = 0, n = 80, i;
     for(i=0; i<=n; i++){
         sum+=i;
-        printf("The sum from 1 to 100: %d \n", sum);
+        printf("The sum from 1 to 80: %d \n", sum);
     }
     return 0;
 }
