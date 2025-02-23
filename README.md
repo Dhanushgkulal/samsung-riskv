@@ -91,4 +91,14 @@ sensors.c/sensors.h: Functions for reading data from the NTC Thermistor and MAX3
 display.c/display.h: Functions for displaying data on the LCD or through serial communication.
 alarm.c/alarm.h: (Optional) Functions for triggering alarms.
 
-</details
+</details>
+
+<details>
+<summary>Acknowledgement</summary>
+<br>
+
+>I’m grateful to Kunal Ghosh Sir for an incredible internship experience on RISC-V Architecture using VSDSquadron Mini. This program gave me the perfect kickstart into the world of RISC-V, and I truly enjoyed every moment of it.
+
+>A big thanks to VLSI System Design for launching such a phenomenal research internship and to Samsung for sponsoring the VSD board! 
+
+</details>
